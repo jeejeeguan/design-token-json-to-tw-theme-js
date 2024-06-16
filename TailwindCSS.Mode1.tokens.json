@@ -68,7 +68,7 @@
     },
     "white": {
       "$type": "color",
-      "$value": "#FFFFFF"
+      "$value": "#ffffff"
     },
     "black": {
       "$type": "color",
