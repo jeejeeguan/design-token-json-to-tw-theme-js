@@ -3,7 +3,7 @@ name: Convert Token
 on:
   push:
     paths:
-      - "TailwindCSS.Mode 1.tokens.json"
+      - "TailwindCSS.Mode1.tokens.json"
 
 permissions:
   contents: write
