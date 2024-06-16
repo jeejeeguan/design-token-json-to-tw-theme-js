@@ -1,7 +1,7 @@
 export const theme = {
   colors: {
     orange: {
-      50: "#fff7ED",
+      50: "#FFF7ED",
       100: "#FFEDD5",
       500: "#F97316",
       700: "#C2410C",

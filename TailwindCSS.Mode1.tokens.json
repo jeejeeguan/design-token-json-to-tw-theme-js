@@ -3,7 +3,7 @@
     "orange": {
       "50": {
         "$type": "color",
-        "$value": "#FFF7ED"
+        "$value": "#fff7ED"
       },
       "100": {
         "$type": "color",
