@@ -24,8 +24,14 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Install Prettier
+        run: npm install --save-dev prettier
+
       - name: Run conversion script
         run: node convert.js
+
+      - name: Format with Prettier
+        run: npx prettier --write jihu-design-css-preset.js
 
       - name: Commit changes
         run: |
