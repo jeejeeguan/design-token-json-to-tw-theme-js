@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const tokenPath = "./TailwindCSS.Mode 1.tokens.json";
+const tokenPath = "./TailwindCSS.Mode1.tokens.json";
 const presetPath = "./jihu-design-css-preset.js";
 
 function convertTokenToPreset(token) {
